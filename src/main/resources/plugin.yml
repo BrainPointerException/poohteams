@@ -1,0 +1,13 @@
+name: PoohTeamsPlugin
+version: 1.0.0
+main: de.poohscord.poohteams.PoohTeamsPlugin
+description: PoohTeams
+author: BrainPointerException
+api-version: 1.21.1
+commands:
+  tm:
+    description: Teams Command
+    usage: /<command>
+    aliases:
+      - team
+      - t
